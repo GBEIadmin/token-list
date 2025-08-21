@@ -61277,7 +61277,24 @@
         "website": "https://hackatalk.dev"
       }
     },
-    {
+{
+        "chainId": 101,
+        "address": "CexvUckwJ9gmfSN9ESR3XhvrbVkkrpsbNa5fNvoa8h4",
+        "symbol": "EMPv2",
+        "name": "Empcoin v2",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/GBEIadmin/empv2-assets/main/empv2-logo.png",
+        "tags": [
+            "utility-token",
+            "empcoin",
+            "empress-speaks",
+            "gbeiaffiliates"
+        ],
+        "extensions": {
+            "website": "https://gbeiaffiliates.org"
+        }
+    },
+     {
       "chainId": 101,
       "address": "4A2us4kJfbMcBfJCmBiec8vMmahivRJQuLkreKEDrnsX",
       "symbol": "MAFIA",
